@@ -1,0 +1,34 @@
+		CMPUT 229 Laboratory Assignment #1
+		==================================
+
+Final Mark:       58    /100 MARKS TOTAL
+                =====
+
+Part 1:	40/80 calculator.s
+
+Part 2:	__18___ /20 Program Style
+
+------------------------------------------------------------------------
+Part 1: Program
+
+ Total 40/80
+
+4 test cases of calculator subroutine
+	Test 1:     0/20
+	Test 2:     0/20 
+	Test 3:     0/20 
+	Test 4:     0/20
+	
+	-40 4 changes made for code to work
+      
+------------------------------------------------------------------------
+Part 2: Program Style
+
+ Total 18/20
+ 
+Some common deductions will include: (5 marks per deduction)
+	No subroutine description
+   -2	No program header - No name at copyright
+	No explanation for register usage
+	No block comments
+
